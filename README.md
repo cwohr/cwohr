@@ -8,6 +8,9 @@ Over the years, Charles has continued to grow as a trainer and has worked with a
 
 You found this GitHub page because Charles is in the midst of exploring an new career path. One that delves into Computer Scienceg. Charles is currently working on a BS from Arizona State University in Graphic Information Technology (Ful-Stack Web Development). Charles is hopeful to complete this new journey within 2025.
 
+![20240204_143815](https://github.com/cwohr/cwohr/assets/163074601/cd7e9632-215c-496b-a705-86418234ea2f)
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cwohr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
