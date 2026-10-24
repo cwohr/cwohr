@@ -1,29 +1,45 @@
-### Hello All!
+![Charles Wohr, Front-End Web Developer: accessible, standards-based websites](assets/banner.png)
 
-Charles is a graduate of Syracuse University and has spent the majority of the past 20 years living and working in New England. After many years working in the corporate and higher education worlds, Charles transitioned into a new career working with dogs (and their people).
+## Hi, I'm Charles 👋
 
-Charles has been working with dogs since 2010. Beginning in the Boston area, he worked with many talented and respected trainers and behaviorists in the positive reinforcement community. While learning to become a trainer, he began a career as a dog walker to gain invaluable hands on experience with dogs.
+I'm a front-end web developer finishing a B.S. in Graphic Information Technology (Full-Stack Web Development) at Arizona State University, graduating December 2026. Before code, I spent 15 years as a dog trainer and behaviorist, which taught me how to listen to clients, explain complex things simply, and build trust. Now I bring that same approach to building clear, accessible websites.
 
-Over the years, Charles has continued to grow as a trainer and has worked with a vast array of behavioral issues. He even spent 2.5 years training rescue dogs to become service dogs for veterans. Charles is committed to continuing education and attends numerous workshops, conferences and seminars annually. He is a Certified Professional Dog Trainer - Knowledge Assessed (CPDT-KA), an Affiliate Member of IAABC (International Association of Animal Behavior Consultants) and an AKC CGC (Canine Good Citizen) Evaluator. Charles is also Pet CPR certified.
+📍 Providence, RI · Open to remote work
 
-You found this GitHub page because Charles is in the midst of exploring an new career path. One that delves into Computer Science. Charles is currently working on a BS from Arizona State University in Graphic Information Technology (Ful-Stack Web Development). He enjoys computer programming as it can be challenging creating something out of code; he finds it more as a puzzle to be solved.  He is looking forward to finding the language he enjoys working with most and strengthen his knowledge in future courses. Charles is hopeful to complete this new journey by the end of 2025.
+### 🔨 Currently
 
-![20240204_143815](https://github.com/cwohr/cwohr/assets/163074601/cd7e9632-215c-496b-a705-86418234ea2f)
+- **Building:** BarkBooked, a booking and session manager for independent dog trainers (senior project)
+- **Learning:** Back-end development with Python and Flask, SQLite databases, and Jinja2 templating
+- **Also working on:** my portfolio website and a new Dogs by Charles website
 
+### 🗂️ Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cwohr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+| Project | What it is | Built with |
+|---|---|---|
+| [**Civic Lens**](https://cwohr.github.io/civic-lens) | Accessibility and web standards retrofit of an investigative news site | HTML, CSS, WCAG, W3C validation |
+| [**Civic Threads Apparel**](https://civicthreads.store/) | Verified Impact component for a sustainable clothing store, built on a cross-functional team | WordPress, WooCommerce, HTML, CSS, JavaScript |
+| [**The 1derful Festival**](https://www.behance.net/gallery/248435195/GIT418-Final-Project) | Interactive single-page festival site with a JSON-driven lineup and saved picks | JavaScript, jQuery, jQuery UI, AJAX, Web Storage |
 
-<!--
-**cwohr/cwohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="assets/civic-lens.png" alt="Civic Lens on a laptop and phone" width="32%">
+  <img src="assets/civic-threads.png" alt="Civic Threads product page on a laptop and phone" width="32%">
+  <img src="assets/1derful-festival.png" alt="The 1derful Festival homepage on a laptop" width="32%">
+</p>
 
-Here are some ideas to get you started:
+### 🧰 Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Languages and tools](https://skillicons.dev/icons?i=html,css,js,jquery,wordpress,python,flask,sqlite,git,github,vscode,ai,ps)](https://skillicons.dev)
+
+HTML5 · CSS3 · JavaScript · jQuery · WordPress · WooCommerce · Python · Flask · SQLite · Git · GitHub · VS Code · Illustrator · Photoshop
+
+### 🤝 How I Work
+
+- **Accessibility first:** WCAG guidelines, semantic HTML, and code that validates
+- **Clear communication:** I explain technical choices in plain language
+- **Built to last:** content kept separate from code so sites are easy to update
+
+### 📫 Contact
+
+- **Portfolio:** coming December 2026
+- **Behance:** [behance.net/charleswohr1](https://www.behance.net/charleswohr1)
+- **Email:** [cawohr@gmail.com](mailto:cawohr@gmail.com)
